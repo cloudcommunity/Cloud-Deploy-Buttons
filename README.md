@@ -28,7 +28,9 @@ Deploying applications can be complex and time-consuming. This repository aims t
 
 ### DigitalOcean
 
-**Deploy to DigitalOcean** button: [![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/{REPO-OWNER}/{REPO-NAME}/tree/{BRANCH-NAME})
+**Deploy to DigitalOcean** button:
+
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/{REPO-OWNER}/{REPO-NAME}/tree/{BRANCH-NAME})
 
 **Deploy to DigitalOcean** code snippet:
 
