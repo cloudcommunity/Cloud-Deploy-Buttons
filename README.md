@@ -36,7 +36,7 @@ Deploying applications can be complex and time-consuming. This repository aims t
 [![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/{REPO-OWNER}/{REPO-NAME}/tree/{BRANCH-NAME})
 ```
 
-[**Deploy to DigitalOcean** button documentation]([#](https://docs.digitalocean.com/products/app-platform/how-to/add-deploy-do-button/))
+[**Deploy to DigitalOcean** button documentation](https://docs.digitalocean.com/products/app-platform/how-to/add-deploy-do-button/).
 
 - **Netlify**
     - [Deploy Button](#) - [Documentation](#)
