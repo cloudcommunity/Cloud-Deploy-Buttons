@@ -19,7 +19,7 @@ A curated collection of deploy buttons for various hosting providers. Deploy you
 
 ## Introduction
 
-Deploying applications can be complex and time-consuming. [Cloud Deploy Buttons] aims to simplify the process by providing deploy buttons for popular hosting providers. With a single click, you can deploy your apps seamlessly, saving you time and effort.
+Deploying applications can be complex and time-consuming. This repository aims to simplify the process by providing deploy buttons for popular hosting providers. With a single click, you can deploy your apps seamlessly, saving you time and effort.
 
 ---
 
