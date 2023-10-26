@@ -26,6 +26,8 @@ Deploying applications can be complex and time-consuming. This repository aims t
 
 ## Supported Hosting Providers
 
+---
+
 ### DigitalOcean
 
 **Deploy to DigitalOcean** button:
@@ -39,6 +41,8 @@ Deploying applications can be complex and time-consuming. This repository aims t
 ```
 
 [**Deploy to DigitalOcean** button documentation](https://docs.digitalocean.com/products/app-platform/how-to/add-deploy-do-button/).
+
+---
 
 ### Netlify
 
@@ -54,6 +58,8 @@ Deploying applications can be complex and time-consuming. This repository aims t
 
 [**Deploy to Netlify** button documentation](https://docs.netlify.com/site-deploys/create-deploys/#deploy-to-netlify-button).
 
+---
+
 ### Heroku
 
 **Deploy to Heroku** button:
@@ -68,6 +74,8 @@ Deploying applications can be complex and time-consuming. This repository aims t
 
 [**Deploy to Heroku** button documentation](https://devcenter.heroku.com/articles/heroku-button).
 
+---
+
 ### Railway
 
 **Deploy on Railway** button:
@@ -81,6 +89,22 @@ Deploying applications can be complex and time-consuming. This repository aims t
 ```
 
 [**Deploy on Railway** button documentation](https://docs.railway.app/deploy/deploy-on-railway-button).
+
+---
+
+### Render
+
+**Deploy to Render** button:
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/{REPO-OWNER}/{REPO-NAME})
+
+**Deploy to Render** code snippet:
+
+```
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/{REPO-OWNER}/{REPO-NAME})
+```
+
+[**Deploy to Render** button documentation](https://render.com/docs/deploy-to-render).
 
 ---
 
