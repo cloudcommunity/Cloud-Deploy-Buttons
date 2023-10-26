@@ -2,6 +2,8 @@
 
 A curated collection of deploy buttons for various hosting providers. Deploy your applications seamlessly with just a single click.
 
+**Star** :star: this repository if you found it useful and share with fellow developers!
+
 ---
 
 ## Table of Contents
