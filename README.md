@@ -5,11 +5,13 @@ A curated collection of deploy buttons for various hosting providers. Deploy you
 ---
 
 ## Table of Contents
+
 1. [Introduction](#introduction)
 2. [Supported Hosting Providers](#supported-hosting-providers)
 3. [How to Use](#how-to-use)
 4. [Contributing](#contributing)
-5. [License](#license)
+5. [Feedback and Questions](#feedback-and-questions)
+6. [License](#license)
 
 ---
 
@@ -54,15 +56,15 @@ We welcome contributions! If you have a deploy button for a hosting provider not
 
 ---
 
-## License
+## Feedback and Questions
 
-This project is licensed under the MIT License. See the [LICENSE](#) file for more details.
+For any feedback, questions, or general comments, create an issue on this repository and we'll get to it as soon as possible!
 
 ---
 
-### Contact
+## License
 
-For any queries or feedback, reach out to us at [your-email@example.com](mailto:your-email@example.com).
+This project is licensed under the MIT License. See the [LICENSE](#) file for more details.
 
 ---
 
