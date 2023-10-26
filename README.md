@@ -12,8 +12,9 @@ A curated collection of deploy buttons for various hosting providers. Deploy you
 2. [Supported Hosting Providers](#supported-hosting-providers)
 3. [How to Use](#how-to-use)
 4. [Contributing](#contributing)
-5. [Feedback and Questions](#feedback-and-questions)
-6. [License](#license)
+5. [Other Collections](#other-collections)
+6. [Feedback and Questions](#feedback-and-questions)
+7. [License](#license)
 
 ---
 
@@ -55,6 +56,12 @@ We welcome contributions! If you have a deploy button for a hosting provider not
 2. Create a new branch with a meaningful name.
 3. Make your changes and create a pull request.
 4. Our team will review and merge appropriate contributions.
+
+---
+
+## Other Collections
+
+- https://github.com/BinBashBanana/deploy-buttons
 
 ---
 
