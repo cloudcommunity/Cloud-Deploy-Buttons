@@ -26,6 +26,18 @@ Deploying applications can be complex and time-consuming. This repository aims t
 
 ## Supported Hosting Providers
 
+In the code snippets below, there are two placeholders that are meant to be replaced with specific values relevant to the GitHub repository you are referring to. Here's a breakdown:
+
+1. **`{REPO-OWNER}`**:
+    - Represents the username or organization name on GitHub that owns the repository.
+    - For example, if the repository's URL is `https://github.com/cloudcommunity/Cloud-Deploy-Buttons`, then `cloudcommunity` is the `{REPO-OWNER}`.
+
+2. **`{REPO-NAME}`**:
+    - Represents the name of the GitHub repository.
+    - Continuing the example above, if the repository's URL is `https://github.com/cloudcommunity/Cloud-Deploy-Buttons`, then `Cloud-Deploy-Buttons` is the `{REPO-NAME}`.
+
+When using these snippets, you'd replace `{REPO-OWNER}` and `{REPO-NAME}` with the appropriate values for the specific GitHub repository you want to deploy via the hosting provider. Once replaced, the link will directly start the deployment process of the given repository on the hosting provider.
+
 ---
 
 ### DigitalOcean
