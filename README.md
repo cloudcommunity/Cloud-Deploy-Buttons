@@ -26,8 +26,17 @@ Deploying applications can be complex and time-consuming. This repository aims t
 
 ## Supported Hosting Providers
 
-- **DigitalOcean** 
-    - [Deploy Button](#) - [Documentation](#)
+### **Deploy to DigitalOcean** 
+
+Deploy to DigitalOcean button: [![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/{REPO-OWNER}/{REPO-NAME}/tree/{BRANCH-NAME})
+
+Deploy to DigitalOcean code snippet:
+
+```
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/{REPO-OWNER}/{REPO-NAME}/tree/{BRANCH-NAME})
+```
+
+[Deploy to DigitalOcean button documentation]([#](https://docs.digitalocean.com/products/app-platform/how-to/add-deploy-do-button/))
 
 - **Netlify**
     - [Deploy Button](#) - [Documentation](#)
