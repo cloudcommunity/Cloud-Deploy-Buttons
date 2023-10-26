@@ -68,6 +68,20 @@ Deploying applications can be complex and time-consuming. This repository aims t
 
 [**Deploy to Heroku** button documentation](https://devcenter.heroku.com/articles/heroku-button).
 
+### Railway
+
+**Deploy on Railway** button:
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ZweBXA)
+
+**Deploy on Railway** code snippet:
+
+```
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/ZweBXA)
+```
+
+[**Deploy on Railway** button documentation](https://docs.railway.app/deploy/deploy-on-railway-button).
+
 ---
 
 ## How to Use
