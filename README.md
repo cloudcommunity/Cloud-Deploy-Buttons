@@ -120,6 +120,22 @@ When using these snippets, you'd replace `{REPO-OWNER}` and `{REPO-NAME}` with t
 
 ---
 
+### Vercel
+
+**Deploy with Vercel** button:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/{REPO-OWNER}/{REPO-NAME})
+
+**Deploy with Vercel** code snippet:
+
+```
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/{REPO-OWNER}/{REPO-NAME})
+```
+
+[**Deploy with Vercel** button documentation](https://vercel.com/docs/deployments/deploy-button).
+
+---
+
 ## How to Use
 
 1. **Find your hosting provider**: Navigate to the desired hosting provider section above.
