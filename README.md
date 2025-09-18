@@ -136,6 +136,22 @@ When using these snippets, you'd replace `{REPO-OWNER}` and `{REPO-NAME}` with t
 
 ---
 
+### StateMesh
+
+**Deploy to StateMesh** button:
+
+[![Deploy](https://console.cloud.statemesh.net/assets/layout/images/deployStateMesh_green.svg)](https://console.cloud.statemesh.net/deploy?appname={application-name}&repository={repository})
+
+**Deploy to StateMesh** code snippet:
+
+```
+[![Deploy](https://console.cloud.statemesh.net/assets/layout/images/deployStateMesh_green.svg)](https://console.cloud.statemesh.net/deploy?appname={application name}&repository={repository}&port={port}&subpath={sub-path})
+```
+
+[**Deploy to StateMesh** button documentation](https://docs.statemesh.net/deployment/button).
+
+---
+
 ## How to Use
 
 1. **Find your hosting provider**: Navigate to the desired hosting provider section above.
