@@ -140,7 +140,7 @@ When using these snippets, you'd replace `{REPO-OWNER}` and `{REPO-NAME}` with t
 
 **Deploy to StateMesh** button:
 
-[![Deploy](https://console.cloud.statemesh.net/assets/layout/images/deployStateMesh_green.svg)](https://console.cloud.statemesh.net/deploy?appname={application-name}&repository={repository})
+[![Deploy](https://console.cloud.statemesh.net/assets/layout/images/deployStateMesh_green.svg)](https://console.cloud.statemesh.net/deploy?appname=deploy-buttons&repository=https://github.com/cloudcommunity/Cloud-Deploy-Buttons.git)
 
 **Deploy to StateMesh** code snippet:
 
